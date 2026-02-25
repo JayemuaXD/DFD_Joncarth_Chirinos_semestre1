@@ -1,0 +1,89 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+"porfavor escriba un numero para confirmar si es par o impar"
+5
+1
+5
+A,B,C
+7
+0
+1
+5
+C > A
+7
+0
+1
+5
+A > B
+7
+0
+1
+5
+B > C
+7
+0
+1
+5
+C > A
+4
+1
+25
+'el numero mayor es:' , A
+13
+4
+1
+24
+'el numero mayor es:', C
+13
+13
+4
+1
+25
+'el numero mayor es:' , B
+13
+13
+4
+1
+25
+'el numero mayor es:' , A
+13
+13
+7
+0
+1
+5
+C > B
+7
+0
+1
+5
+B > A
+4
+1
+25
+'El numero mayor es:' , A
+13
+4
+1
+48
+'el numero mayor es:' , B, ' y ' , A, 'el menor'
+13
+13
+4
+1
+25
+'el numero mayor es:' , C
+13
+13
+4
+1
+19
+'y el menor es:' ,H
+1
